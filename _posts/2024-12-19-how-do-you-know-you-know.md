@@ -2,7 +2,7 @@
 layout: post
 title: "How do you know, you know?"
 author: joshua
-categories: [Jekyll, tutorial, web development]
+categories: [love, dating]
 image: "https://images.unsplash.com/photo-1543899161-d044e847c40f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
 ---
 
