@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediumish</title>
-    <description>Jekyll template, Medium styled, free for bloggers.</description>
+    <title>Thoughts</title>
+    <description>Shower thoughts, meditations, and daydreams.</description>
     <link>http://localhost:4000/mediumish-theme-jekyll/</link>
     <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Dec 2024 15:25:42 -0500</pubDate>
-    <lastBuildDate>Sat, 14 Dec 2024 15:25:42 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Dec 2024 22:50:51 -0600</pubDate>
+    <lastBuildDate>Thu, 19 Dec 2024 22:50:51 -0600</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>How do you know, you know?</title>
+        <description>&lt;p&gt;On my Uber ride to the airport, my Uber driver (let’s call him “The Driver”) revealed that he no longer has Christmas plans. His girlfriend left him. For five months, they’ve been together until she cut off communication from him. He was left puzzled.&lt;/p&gt;
+
+&lt;p&gt;I don’t know him too well. But, from our 20 min drive, the Driver seemed to be a respectable person. Although 59 years old, he was a former CFO who invested his retirement time in taking care of his father and pleasurable hobbies like being a tour guide. He had an average build and height as well as being a great conversationalist.&lt;/p&gt;
+
+&lt;p&gt;This wasn’t his first long term relationship either. Previously, the Driver had a wife for 19 years. However, she started “exploring around.” He tried to salvage his marriage but to no avail.&lt;/p&gt;
+
+&lt;p&gt;Although he had a sour taste of the dating market, he was undeterred to find the right woman. As in a matter of fact, he’s in the chat with another woman. Though, I’ve doubts because she was a former business executive – another &lt;em&gt;captain&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If a woman chooses to be her own captain, and parks her boat with the other captains, she’ll be competing for the attention for the other male passengers. If a man devotes their life building their own boats, he will never walk away from their vessel to be a passenger of a woman’s boat. ~ &lt;a href=&quot;https://www.youtube.com/watch?v=DVyYHonNriw&quot;&gt;Dr Orion Taraban&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, this got me curious. What does it take to get a successful relationship? Being good isn’t good enough. You still get smarted even when you’re smart.&lt;/p&gt;
+
+&lt;p&gt;Like the Driver, I’ve friends who make a decent living and are younger. One is an architect. Another is an accountant. But, they only have broken relationships to the point that they’re questioning their vocation.&lt;/p&gt;
+
+&lt;p&gt;I’ll sound elitist when I say this. I’ve friends who are “average Joes” yet have better success in dating and marrying women more than my friends or I.&lt;/p&gt;
+
+&lt;p&gt;Granted, I don’t know the full picture. But, that’s the point. How will I see the bigger picture? I’ll sound like a dork for saying this, I’ve tried studying to find the right woman. But, I never had a girlfriend.&lt;/p&gt;
+
+&lt;p&gt;Perhaps, I am getting closer to finding the right woman but I’m just not seeing this. It feels like one of those chess games where you are in a complex, seemingly-compromised position. But, you actually have the advantage.&lt;/p&gt;
+
+&lt;p&gt;This past decade, I followed Scott Adam’s advice for “systems over goals.” I sacrificed social activities in exchange for growing my tech skill stack. Now, I’ve a six-figure salary. I’ve developed connections in Catholic young adult groups. Now, I’ve people to keep me (or at least try) morally and spiritually rooted. Related to the latter, I moved to Florida. Every day, I’ve an opportunity to talk to another young adult woman. Currently, I’ve invested countless hours watching Youtube or reading books on relationships ranging from PUA to Catholic priests giving advice. Although I’m a shy introvert, I occassionally find opportunities to chat up with a young lady.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A goal is a specific objective that you either achieve or don’t sometime in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run. If you do something every day, its a system. ~ &lt;a href=&quot;https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745&quot;&gt;Scott Adams&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Or maybe, this “knowledge” is an illusion. And instead, I’ve somehow created a filter that hides good women and leaves only wolves in sheeps clothing.&lt;/p&gt;
+
+&lt;p&gt;Reflecting back, I also did date more women these past few years than compared to my college life and prior. It’s just frustrating when every month, someone you know is getting married. Perhaps, I’m still learning. And the final lesson is me accepting that knowledge doesn’t change anything. It’s only in God’s time.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/how-do-you-know-you-know/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/how-do-you-know-you-know/</guid>
+        
+        
+        <category>love</category>
+        
+        <category>dating</category>
+        
+      </item>
     
       <item>
         <title>Powerful things you can do with the Markdown editor</title>
@@ -129,7 +174,7 @@
 
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/powerful-things-markdown-editor/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/powerful-things-markdown-editor/</guid>
         
@@ -154,7 +199,7 @@
 
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/first-mass-produced/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/first-mass-produced/</guid>
         
@@ -211,7 +256,7 @@
 
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/education/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/education/</guid>
         
@@ -236,7 +281,7 @@
   &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/acumulated-experience/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/acumulated-experience/</guid>
         
@@ -259,7 +304,7 @@
 
 &lt;p&gt;For more information about how to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 May 2018 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 12 May 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/about-bundler/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/about-bundler/</guid>
         
@@ -274,7 +319,7 @@
 
 &lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/we-all-wait-for-summer/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/we-all-wait-for-summer/</guid>
         
@@ -300,7 +345,7 @@
 &lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/tree-of-codes/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/tree-of-codes/</guid>
         
@@ -325,7 +370,7 @@
 
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/red-riding/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/red-riding/</guid>
         
@@ -353,32 +398,9 @@
 &lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/press-and-education/</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/press-and-education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/options-for-creating-new-site-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/options-for-creating-new-site-with-jekyll/</guid>
         
         
         <category>Jekyll</category>
